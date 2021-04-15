@@ -8,7 +8,7 @@
 
 使用データ　国土交通省「歩行者移動支援サービスに関するデータサイト」https://www.hokoukukan.go.jp/top.html  
 
-![sample2]https://github.com/wakaizumi/Simulation/issues/1#issue-858463311)
+![シミュレーション](https://user-images.githubusercontent.com/41826225/114812855-d452be80-9deb-11eb-89c0-29b994da6fbc.gif)
 
 このコードに関する論文  
 DEIM2020 https://db-event.jpn.org/deim2020/post/proceedings/papers/J5-3.pdf  
